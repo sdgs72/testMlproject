@@ -1,0 +1,11 @@
+name: client_example
+
+conda_env: conda.yaml
+
+entry_points:
+    logistic_regression:
+        command: "python LogisticRegressionTest.py"
+
+
+
+
